@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sunrays2993.github.io/publii-pages-beinformed/sitemap.xml
